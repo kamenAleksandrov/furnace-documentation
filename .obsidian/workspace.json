@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Firmware Components/Logger component.md",
+                "file": "Hardware/Arduino Nano.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Logger component"
+              "title": "Arduino Nano"
             }
           }
         ]
@@ -160,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00_Overview/Firmware Architecture.md",
+                "file": "Hardware/Arduino Nano.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Firmware Architecture"
+              "title": "Outline of Arduino Nano"
             }
           },
           {
@@ -199,18 +199,23 @@
   },
   "active": "c29f4fa2d0b377eb",
   "lastOpenFiles": [
-    "Untitled Diagram.svg",
+    "Pinout-Arduino-Nano.jpg",
+    "Hardware/ESP32-DevKitC.md",
+    "Hardware/Arduino Nano.md",
+    "esp32_devkitC_pinlayout.png",
     "Firmware Components/Logger component.md",
+    "Hardware",
+    "Untitled Diagram.svg",
     "Untitled.canvas",
     "Firmware Components/SPI Master component.md",
-    "00_Overview/Firmware Architecture.md",
+    "Overview/Firmware Architecture.md",
     "Firmware Components/Temperature measurement component.md",
     "Firmware Components/Temperature calculator component.md",
-    "00_Overview/Project overview.md",
+    "Overview/Project overview.md",
     "Firmware Components",
     "00_Overview/Untitled",
     "Articles/Furnace Firmware Architecture.md",
-    "00_Overview",
+    "Overview",
     "Welcome.md",
     "Articles",
     "Firmware API_DOC"

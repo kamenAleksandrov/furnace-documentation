@@ -1,0 +1,1 @@
+This project is a controller for a composites curing furnace. It has to measure and control the internal temperature of the furnace based on user defined cycle. It will use several [[RTD sensors]] with [[RTD to digital converters]].

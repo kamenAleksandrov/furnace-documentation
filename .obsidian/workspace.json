@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "e72f684f8cdc2a2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "7474ef85d82cc111",
+        "type": "tabs",
+        "dimension": 71.52527075812274,
+        "children": [
+          {
+            "id": "c29f4fa2d0b377eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Firmware Components/Logger component.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Logger component"
+            }
+          }
+        ]
+      },
+      {
+        "id": "374e674ced02cb99",
+        "type": "tabs",
+        "dimension": 28.474729241877256,
+        "children": [
+          {
+            "id": "6093b7296477e85d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e30435707a19661c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5ec577694e0abe7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7021ac760e206b76",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "21d7ed99cfe50261",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ae132b6fff9e806a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "268bdb202af9caa4",
+    "type": "split",
+    "children": [
+      {
+        "id": "2873caa0456cacad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0a7b625c40eeb56",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00_Overview/Firmware Architecture.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Firmware Architecture"
+            }
+          },
+          {
+            "id": "eae7c36916d85754",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00_Overview/Firmware Architecture.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Firmware Architecture"
+            }
+          },
+          {
+            "id": "20298ca0e1b317d7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2963c7cb3802eb83",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00_Overview/Firmware Architecture.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Firmware Architecture"
+            }
+          },
+          {
+            "id": "559a7bcde2b30c30",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "c29f4fa2d0b377eb",
+  "lastOpenFiles": [
+    "Untitled Diagram.svg",
+    "Firmware Components/Logger component.md",
+    "Untitled.canvas",
+    "Firmware Components/SPI Master component.md",
+    "00_Overview/Firmware Architecture.md",
+    "Firmware Components/Temperature measurement component.md",
+    "Firmware Components/Temperature calculator component.md",
+    "00_Overview/Project overview.md",
+    "Firmware Components",
+    "00_Overview/Untitled",
+    "Articles/Furnace Firmware Architecture.md",
+    "00_Overview",
+    "Welcome.md",
+    "Articles",
+    "Firmware API_DOC"
+  ]
+}
